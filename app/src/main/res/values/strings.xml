@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cronometro</string>
+    <string name="imagem_desc">Imagem</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="parar">Parar</string>
+    <string name="zerar">Zerar</string>
+    <string name="botao">Botão</string>
+</resources>
